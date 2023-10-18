@@ -1,2 +1,2 @@
 # github-practice
-깃허브 실습!
+깃 실습!
